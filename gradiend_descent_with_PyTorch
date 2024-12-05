@@ -10,4 +10,4 @@ for _ in range(500):
     optimizer.step()
     optimizer.zero_grad()
 
-#print(w) # Код для самопроверки
+print(w)
